@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
-import 'package:flutter_application_1/bird.dart';
+import 'bird.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
